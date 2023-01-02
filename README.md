@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/720/0*x4rQFjfi0iK3gS1T.gif)](https://mdourki.io)
+[![MasterHead](https://miro.medium.com/max/720/0*x4rQFjfi0iK3gS1T.gif)]([https://mdourki.io](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif))
 <h1 align="center">Hi 👋, I'm Dourki Mohamed</h1>
 <h3 align="center">A fullstack developer based in Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
